@@ -16,7 +16,7 @@
       <a href="#resources">Resources</a>
     </nav>
     <section id="rankings"</section>
-      <h2>Elementary Schools!!</h2>
+      <h2>Elementary Schools</h2>
       <h2>Middle Schools</h2>
       <h2>High Schools</h2>
     </section>
