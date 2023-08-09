@@ -11,11 +11,11 @@
     <nav>
       <a href="#index">Home</a>
       <a href="#about">About</a>
-      <a href="/rankings/">Rankings</a>
-      <a href="/whyattendancematters/">Why Attendance Matters</a>
-      <a href="/resources/">Resources</a>
+      <a href="#rankings">Rankings</a>
+      <a href="#whyattendancematters">Why Attendance Matters</a>
+      <a href="#resources">Resources</a>
     </nav>
-    <section id="rankings">
+    <section id="rankings"<a id="rankings"></section>a>
       <h2>Elementary Schools</h2>
       <h2>Middle Schools</h2>
       <h2>High Schools</h2>
