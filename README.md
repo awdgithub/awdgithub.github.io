@@ -9,11 +9,11 @@
   </head>
   <body>
     <nav>
-      <a href="./index.html">Home</a>
-      <a href="./about.html">About</a>
-      <a href="./rankings.html">Rankings</a>
-      <a href="./whyattendancematters.html">Why Attendance Matters</a>
-      <a href="./resources.html">Resources</a>
+      <a href="/index/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/rankings/">Rankings</a>
+      <a href="/whyattendancematters/">Why Attendance Matters</a>
+      <a href="/resources/">Resources</a>
     </nav>
     <div class="rankings">
       <h2>Elementary Schools</h2>
