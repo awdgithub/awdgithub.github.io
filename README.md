@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <title>Chesterfield Shows Up</title> -->
+    <title>Chesterfield Shows Up</title>
     <link rel="stylesheet" href="/styles.css" />
     <h1>Chesterfield Shows Up</h1>
   </head>
