@@ -15,7 +15,7 @@
       <a href="#whyattendancematters">Why Attendance Matters</a>
       <a href="#resources">Resources</a>
     </nav>
-    <section id="rankings"<a id="rankings"><a></a></section>
+    <section id="rankings"<a id="rankings"></a></section>
       <h2>Elementary Schools</h2>
       <h2>Middle Schools</h2>
       <h2>High Schools</h2>
