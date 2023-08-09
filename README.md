@@ -9,23 +9,23 @@
   </head>
   <body>
     <nav>
-      <a href="/index/">Home</a>
-      <a href="/about/">About</a>
+      <a href="#index">Home</a>
+      <a href="#about">About</a>
       <a href="/rankings/">Rankings</a>
       <a href="/whyattendancematters/">Why Attendance Matters</a>
       <a href="/resources/">Resources</a>
     </nav>
-    <section class="rankings">
+    <section id="rankings">
       <h2>Elementary Schools</h2>
       <h2>Middle Schools</h2>
       <h2>High Schools</h2>
     </section>
-    <section class="whyattendancematters">
+    <section id="whyattendancematters">
       <h2>Did you know?<h2>
       <h2>Absences Add Up</h2>
         <p>Absence Calculator</p>
     </section>
-    <section class="resources">
+    <section id="resources">
       <h2>I'm a Student</h2>
       <h2>I'm a Parent</h2>
       <h2>I'm a Community Member</h2>
