@@ -2,31 +2,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Chesterfield Shows Up</title>
+    <title>The Schnaldridge School for Leadership and International Studies</title>
     <link rel="stylesheet" href="styles.css" />
-    <h1>Chesterfield Shows Up</h1>
+    <h1>The Schnaldridge School</h1>
+    <h2>for Leadership and International Studies</h2>
   </head>
   <body>
     <nav>
       <a href="#index">Home</a>
-      <a href="#rankings">Rankings</a>
-      <a href="#whyattendancematters">Why Attendance Matters</a>
-      <a href="#resources">Resources</a>
+      <a href="#country">Country</a>
+      <a href="#capital">Capital</a>
+      <a href="#weather">Weather</a>
     </nav>
-    <div id="rankings">
-      <h2>Elementary Schools</h2>
-      <h2>Middle Schools</h2>
-      <h2>High Schools</h2>
+    <div id="country">
+      <input type="name" name="country" id="countryname" />
     </div>
-    <div id="whyattendancematters">
-      <h2>Did you know?<h2>
-      <h2>Absences Add Up</h2>
-        <p>Absence Calculator</p>
+    <div id="capital">
     </div>
-    <div id="resources">
-      <h2>I'm a Student</h2>
-      <h2>I'm a Parent</h2>
-      <h2>I'm a Community Member</h2>
+    <div id="weather">
     </div>
   </body>
 </html>
