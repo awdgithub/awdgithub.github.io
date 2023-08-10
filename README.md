@@ -4,8 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The Schnaldridge School for Leadership and International Studies</title>
     <link rel="stylesheet" href="styles.css" />
-    <h1>The Schnaldridge School</h1>
-    <h2>for Leadership and International Studies</h2>
+    <h1>The Schnaldridge School for Leadership and International Studies</h1>
+    <h2>where girls change the world</h2>
   </head>
   <body>
     <nav>
