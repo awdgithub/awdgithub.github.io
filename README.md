@@ -18,7 +18,8 @@
       <input type="name" name="country" id="countryname" />
     </div>
     <div id="capital">
-      <p>The capital of <a id="country"> is </p>  #check this use of a
+      <p>The capital of <a id="countryname"></a> is 
+      </p>
     </div>
     <div id="weather">
     </div>
