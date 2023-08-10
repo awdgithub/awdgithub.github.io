@@ -16,6 +16,21 @@
     </nav>
     <div id="country">
       <input type="name" name="country" id="countryname" />
+      <py-script>
+        import requests
+        from bs4 import BeautifulSoup
+
+        response = requests.get("https://en.wikipedia.org/wiki/Ghana")
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        data = []
+        table = soup.find("table", class_="infobox ib-country vcard")
+        table_body = table.find('tbody')
+        
+        images = table_body.findAll('img')
+        flag = images[0]
+        flag.attrs['src']
+      </py-script>
     </div>
     <div id="capital">
       <p>The capital of <a id="countryname"></a> is 
