@@ -31,6 +31,7 @@
         flag = images[0]
         flag.attrs['src']
       </py-script>
+      <img src="src" alt="country's flag"></img>
     </div>
     <div id="capital">
       <p>The capital of <a id="countryname"></a> is 
